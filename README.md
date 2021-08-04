@@ -15,10 +15,8 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Grid system
 - Flexbox
 - Mobile-first workflow
-- Javascript
 
 ## Author
 
