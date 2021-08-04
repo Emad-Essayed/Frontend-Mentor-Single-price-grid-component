@@ -43,10 +43,8 @@ This is a solution to the [Base Apparel coming soon page challenge on Frontend M
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Grid system
 - Flexbox
 - Mobile-first workflow
-- Javascript
 
 ## Author
 
